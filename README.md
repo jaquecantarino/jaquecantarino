@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Jaque! 👋👩🏻‍💻
 
 Bem vinde ao meu GitHub!
-- 😄 Pronouns: Ela/She
+- 😄 Pronomes: Ela/She
 - 🐶🐦 Tutora do Freddy e do Jairo
 - 👩🏻‍💻 Estudante de Analise e Desenvolvimento de Sistemas pela Fatec Ipiranga. 
 - 👩🏻‍💻 Desenvolvedora Java FullStack em Formação pela Generation Brasil.
