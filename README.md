@@ -2,6 +2,7 @@
 
 Bem vinde ao meu GitHub!
 - 😄 Pronomes: Ela/She
+- 🍁 24 anos.
 - 🐶🐦 Tutora do Freddy e do Jairo
 - 👩🏻‍💻 Estudante de Analise e Desenvolvimento de Sistemas pela Fatec Ipiranga. 
 - 👩🏻‍💻 Desenvolvedora Java FullStack em Formação pela Generation Brasil.
