@@ -1,4 +1,4 @@
-### Olá! Eu sou a Jaque! 👋👩🏻‍💻
+### Olá! Eu sou a Jaqueline, fique a vontade para me chamar de Jaque! 👋👩🏻‍💻
 
 Bem vinde ao meu GitHub!
 - 😄 Pronomes: Ela/She
