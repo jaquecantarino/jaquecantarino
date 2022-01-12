@@ -1,11 +1,11 @@
 ### Olá! Eu sou a Jaqueline, fique a vontade para me chamar de Jaque! 👋👩🏻‍💻
 
-Bem vinde ao meu GitHub!
-- 😄 Pronomes: Ela/She
-- 🍁 24 anos.
+- 🙋‍♀️ Pronomes: Ela/Dela (She/Her)
+- 🍁 24 anos, nascida em Fevereiro, pisciana 🐠, ENFJ 🧝‍♀️.
 - 🐶🐦 Tutora do Freddy e do Jairo
-- 👩🏻‍💻 Estudante de Analise e Desenvolvimento de Sistemas pela Fatec Ipiranga. (3/6) 
-- 👩🏻‍💻 Desenvolvedora Java FullStack pela Generation Brasil.
+- 👩‍💻👩‍🎓 Estudante de Analise e Desenvolvimento de Sistemas pela Fatec Ipiranga. (4/6) 
+- 👩‍💻👩‍🎓 Desenvolvedora Java FullStack pela Generation Brasil.
+- 📚💻 Desenvolvedora Back-end: Java.
 
 <div>
   <a href="https://github.com/jaquecantarino">
