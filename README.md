@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Jaqueline, fique a vontade para me chamar de Jaque! 👋👩🏻‍💻
 
 - 🙋‍♀️ Pronomes: Ela/Dela (She/Her)
-- 🍁 24 anos, nascida em Fevereiro, pisciana 🐠, ENFJ 🧝‍♀️.
+- 🍁 25 anos, nascida em Fevereiro, pisciana 🐠, ENFJ 🧝‍♀️.
 - 🐶🐦 Tutora do Freddy e do Jairo
 - 👩‍💻👩‍🎓 Estudante de Analise e Desenvolvimento de Sistemas pela Fatec Ipiranga. (4/6) 
 - 👩‍💻👩‍🎓 Desenvolvedora Java FullStack pela Generation Brasil.
