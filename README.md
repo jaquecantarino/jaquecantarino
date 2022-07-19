@@ -3,9 +3,10 @@
 - 🙋‍♀️ Pronomes: Ela/Dela (She/Her)
 - 🍁 25 anos, nascida em Fevereiro, pisciana 🐠, ENFJ 🧝‍♀️.
 - 🐶🐦 Tutora do Freddy e do Jairo
-- 👩‍💻👩‍🎓 Estudante de Analise e Desenvolvimento de Sistemas pela Fatec Ipiranga. (4/6) 
+- 👩‍💻👩‍🎓 Estudante de Analise e Desenvolvimento de Sistemas pela Fatec Ipiranga. (5/6) 
 - 👩‍💻👩‍🎓 Desenvolvedora Java FullStack pela Generation Brasil.
 - 📚💻 Aspirante a Desenvolvedora Back-end: Java.
+- Estag no Itau Unibanco.
 
 <div>
   <a href="https://github.com/jaquecantarino">
