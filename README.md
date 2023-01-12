@@ -1,10 +1,12 @@
-### Olá! Eu sou a Jaqueline, fique a vontade para me chamar de Jaque! 👋👩🏻‍💻
+### Olá! Eu sou a Jaqueline, fique a vontade para me chamar de Jaque! 🦆
+
+👋👩🏻‍💻
 
 - 🙋‍♀️ Pronomes: Ela/Dela (She/Her)
 - 🍁 25 anos, nascida em Fevereiro, pisciana 🐠, INFJ-T 🧝‍♀️.
 - 🐶🐦 Tutora do Freddy e do Jairo
-- 👩‍💻👩‍🎓 Estudante de Analise e Desenvolvimento de Sistemas pela Fatec Ipiranga. (5/6) 
-- 👩‍💻👩‍🎓 Desenvolvedora Java FullStack pela Generation Brasil.
+- 👩‍💻👩‍🎓 Estudante de Analise e Desenvolvimento de Sistemas pela Fatec Ipiranga. (6/6) 
+- 👩‍💻👩‍🎓 Desenvolvedora Java FullStack pela Generation Brasil. (T27)
 - 📚💻 Aspirante a Desenvolvedora Back-end: Java.
 - Estag no Itau Unibanco.
 
