@@ -3,7 +3,8 @@
 👋👩🏻‍💻
 
 - 🙋‍♀️ Pronomes: Ela/Dela (She/Her)
-- 🍁 25 anos, nascida em Fevereiro, pisciana 🐠, INFJ-T 🧝‍♀️.
+- 🍁 26 anos, criada na cidade mais interiorana da região metropolitana de São Paulo. 
+- 🐠🧝‍♀️ Pisciana | INFJ.
 - 🐶🐦 Tutora do Freddy e do Jairo
 - 👩‍💻👩‍🎓 Estudante de Analise e Desenvolvimento de Sistemas pela Fatec Ipiranga. (6/6) 
 - 👩‍💻👩‍🎓 Desenvolvedora Java FullStack pela Generation Brasil. (T27)
