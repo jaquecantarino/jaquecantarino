@@ -5,10 +5,10 @@
 - 🙋‍♀️ Pronomes: Ela/Dela (She/Her)
 - 🍁 26 anos, criada na cidade mais interiorana da região metropolitana de São Paulo. 
 - 🐠🧝‍♀️ Pisciana | INFJ.
-- 🐶🐦 Tutora do Freddy e do Jairo
+- 🐶🐦🐦 Tutora do Freddy, Jairo e Gilda
 - 👩‍💻👩‍🎓 Estudante de Analise e Desenvolvimento de Sistemas pela Fatec Ipiranga. (6/6) 
 - 👩‍💻👩‍🎓 Desenvolvedora Java FullStack pela Generation Brasil. (T27)
-- 📚💻 Aspirante a Desenvolvedora Back-end: Java.
+- 📚💻 Aspirante a Desenvolvedora Back-end: Java/Kotlin.
 - Estag no Itau Unibanco.
 
 <div>
