@@ -10,7 +10,7 @@
 - 👩‍💻👩‍🎓 Desenvolvedora Java FullStack pela Generation Brasil. (T27)
 - 📚💻 Aspirante a Desenvolvedora Back-end: Java/Kotlin.
 - Estag no Itau Unibanco.
-- 👩‍💻👩‍🎓 👩🏻‍🎤Tech (and K-popper) Girl.
+- 👩‍💻👩🏻‍🎤Tech (and K-popper) Girl.
 
 <div>
   <a href="https://github.com/jaquecantarino">
