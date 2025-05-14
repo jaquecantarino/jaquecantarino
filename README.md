@@ -1,17 +1,16 @@
 ### Olá! Eu sou a Jaqueline, fique a vontade para me chamar de Jaque! 🦆
 
-👋👩🏻‍💻
+👋👩🏻‍💻🦆
 
 - 🙋‍♀️ Pronomes: Ela/Dela (She/Her)
-- 🍁 27 anos, criada na cidade mais interiorana da região metropolitana de São Paulo. 
+- 🍁 28 anos, criada na cidade mais interiorana da região metropolitana de São Paulo. 
 - 🐠🧝‍♀️ Pisciana | INFJ.
 - 🐶🐦🐦🐉 Tutora do Freddy, Jairo, Gilson e Plinio
-- 👩‍💻👩‍🎓 Estudande de Desenvolvimento FullStack na Descomplica Faculdade Online. 
+- 👩‍💻👩‍🎓 Formada em Desenvolvimento FullStack na Descomplica Faculdade Online. 
 - 👩‍💻👩‍🎓 Formada em Analise e Desenvolvimento de Sistemas na Fatec Ipiranga.
 - 👩‍💻👩‍🎓 Desenvolvedora Java FullStack pela Generation Brasil. (T27)
 - 📚💻 Aspirante a Desenvolvedora Back-end: Java/Kotlin.
-- Analista de Engenharia de TI JR.
-- 👩‍💻👩🏻‍🎤Tech (and K-popper) Girl.
+- Analista de Engenharia de TI PL.
 
 <div>
   <a href="https://github.com/jaquecantarino">
